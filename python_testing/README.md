@@ -28,4 +28,3 @@ This command searches for all test files in the current directory and subdirecto
 
 ## Note
 This project is intended for educational purposes, focusing on basic unit testing practices in Python.
-```
