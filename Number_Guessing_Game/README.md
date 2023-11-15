@@ -11,7 +11,7 @@ To play the game, you need Python installed on your machine. Follow these steps:
 
 1. Download the game file to your computer.
 2. Open your command line interface (CLI) and navigate to the directory where the game file is located.
-3. Run the game with the command `python game.py`.
+3. Run the game with the command `python game.py`
 
 ### Game Rules
 - You are prompted to enter a guess for a number between 1 and 10.
