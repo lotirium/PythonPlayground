@@ -37,5 +37,3 @@ The script includes basic error handling for scenarios like a missing `test.txt`
 
 ## Note
 This is a basic implementation for educational and demonstrative purposes, showcasing file handling and the use of external libraries in Python.
-```
-
